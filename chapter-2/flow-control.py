@@ -26,6 +26,10 @@ print(2 != 2)           # Prints False
 print(56 > 10)          # Prints True
 print(53 > 61)          # Prints False
 
+print(23 < 40)          # Prints True
+print(49 < 1223)        # Prints False
 
-
-
+print(123 >= 31)        # Prints True
+print(123 >= 123)       # Prints True
+print(59 >= 10)         # Prints False
+# Same for <=
